@@ -8,7 +8,7 @@ There are 2 different types of scripts that will be created. The first will be t
 
 ## What's included?
 
-Each script will share the following things in common:
+### General Use
 
 - Change the Wallpaper to the current perferred wallpaper in "Assets\Wallpaper.png"
 - Install the following list of Programs:
@@ -26,6 +26,9 @@ Each script will share the following things in common:
         - Apostrophe
     - OBS
     - Firefox
+
+### Pent Testing
+- Neovim
 
 ## Current Versions
 
