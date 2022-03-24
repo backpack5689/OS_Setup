@@ -4,6 +4,8 @@ This Repository is intended to configure a linux operating system just right, so
 
 These are all scripts that can be ran on a machine to configure it the way that I like my system. Each Operating Sysytem will utilize a different script.
 
+There are 2 different types of scripts that will be created. The first will be the "General Use" script. This should be used if the user is planning to utilize the system for general use. The other will be a "Pent Testing" script. This will include the tools that I have learned to utilize.
+
 ## What's included?
 
 Each script will share the following things in common:
